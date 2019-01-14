@@ -1,4 +1,4 @@
-﻿token=NTM0MzY5NzY2ODc4NDc4MzM2.Dx4mNA.M0h9bt1NUfhZYMWNNsO861RLu30
+token=NTM0MzY5NzY2ODc4NDc4MzM2.Dx4pLQ._CpxTQRv6cQOh_sRIyIsTZ9P-6U
 owner=264706943854051329 
 prefix=^
 game=Rcsve Private Bot
